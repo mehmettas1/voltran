@@ -1,0 +1,29 @@
+h1{
+    background-color: #85bb55;
+    color: rgb(255,0,0);
+}
+#box4{
+    background-color: #f202e2;
+    color: #335755;
+}
+#box5{
+    background-color: hsla(120, 0%, 50%,0,1);
+    color: hsl(120, 0%, 50%)
+}
+#box1{
+    border-style: solid   dashed ;
+    border-width: 5px ;
+    border-color: black;
+}
+#box2{
+    border: solid;
+    border-radius: 10px 20px;
+}
+#box3{
+    border: 4px solid;
+    border-bottom-left-radius: 10px;
+}
+div{
+    border-radius: 10px;
+    border: 5px solid;
+}
